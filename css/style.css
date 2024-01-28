@@ -109,3 +109,19 @@ h2 {
         padding-top: 22px;
     }
 }
+
+ .attribution {
+     font-size: 12px;
+     text-align: center;
+     margin-top: 20px;
+ }
+
+ .attribution a {
+     color: hsl(228, 45%, 44%);
+     transition: 300ms;
+ }
+
+ .attribution a:hover {
+     color: var(--green);
+     text-decoration: none;
+ }
